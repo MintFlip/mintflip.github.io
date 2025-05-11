@@ -47,15 +47,8 @@ We welcome contributions to improve the MintFlip website! Feel free to fork the 
 
 ## 📧 Contact
 For any inquiries or support, please reach out to us at:
-- Email: support@mintflip.com
+- Email: mintflipbiz@gmail.com
 - [GitHub Profile](https://github.com/MintFlip)
-
----
-
-## 🌐 Social Media
-Stay updated and follow us on:
-- Twitter: [@MintFlip](https://twitter.com/MintFlip)
-- Instagram: [@MintFlip](https://instagram.com/MintFlip)
 
 ---
 
